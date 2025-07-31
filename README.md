@@ -11,7 +11,7 @@
 
 This model is a fine-tuned version of **Mistral-7B-Instruct-v0.3**, adapted using **LoRA (Low-Rank Adaptation)** to generate text in the **opinion-editorial style of Pakistani diplomat and journalist Maleeha Lodhi**.
 
-The training dataset consists of **opinion articles scraped from the last 6 years of Dawn News**, with a focus on **Maleeha Lodhi's own contributions**. The objective is to emulate her analytical tone, vocabulary, and structure when discussing geopolitics, foreign policy, and Pakistani current affairs.
+The training dataset consists of **opinion articles scraped from the last 6 years of Dawn News**, with a focus on **Maleeha Lodhi's own contributions**. The objective is to imitate her analytical tone, vocabulary, and structure when discussing geopolitics, foreign policy, and Pakistani current affairs.
 
 ---
 
